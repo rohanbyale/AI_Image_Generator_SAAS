@@ -1,6 +1,6 @@
 <h1 align="center">🎨 AI Image Generator SaaS – Next.js 2026 🚀</h1>
 
-(/public/screenshot-for-readme.png)
+( /public/screenshot-for-readme.png )
 
 ---
 
