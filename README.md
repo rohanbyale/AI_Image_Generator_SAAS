@@ -1,6 +1,6 @@
-<h1 align="center">🎨 AI Image Generator SaaS – Next.js 2026 🚀</h1>
+<h1 align="center"> AI Image Generator SaaS – Next.js  </h1>
 
-( /public/screenshot-for-readme.png )
+
 
 ---
 
@@ -32,19 +32,6 @@
 - 🛠️ Error Monitoring with Sentry
 - 🤖 AI-assisted development workflow (Cline)
 - 🚀 Deployment (free-tier friendly)
-
----
-
-## 🧠 What You’ll Learn
-
-- How to build a real AI SaaS product from scratch
-- How to integrate OpenAI for image generation
-- Authentication & user management with Clerk
-- Subscription payments & upgrade logic
-- Database design with PostgreSQL + Drizzle
-- Building premium 3D landing pages
-- Production-ready architecture & workflows
-- Deploying your app with a live URL
 
 ---
 
